@@ -1,0 +1,26 @@
+#calcBody {
+  height: 400px;
+  width: 300px;
+  background-color: black;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10%;
+}
+#heading{
+  color: white;
+  font-weight: bold;
+  font-size: 1.2em;
+  text-align: center;
+}
+#calcDisplay {
+  background-color: beige;
+  height: 50px;
+  width: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+.numberButton {
+  color: white;
+  background-color: red;
+}
