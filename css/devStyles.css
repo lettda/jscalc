@@ -1,7 +1,7 @@
 #calcBody {
   height: 400px;
   width: 300px;
-  background-color: black;
+  background-color: purple;
   margin-left: auto;
   margin-right: auto;
   margin-top: 10%;
@@ -19,8 +19,22 @@
   margin-left: auto;
   margin-right: auto;
   margin-top: 20px;
+  margin-bottom: 25px;
 }
-.numberButton {
-  color: white;
-  background-color: red;
+#calcDisplay > p {
+  text-align: center;
+  margin-top: 0.7rem;
+}
+#buttonBody{
+  height: 70%;
+}
+#buttonBody > .row {
+  margin-left: 3px;
+
+}
+button {
+  color: black;
+  width: 20%;
+  height: 50px;
+  margin: 5px 5px;
 }
