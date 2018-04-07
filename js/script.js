@@ -8,6 +8,7 @@ $(document).ready(() => {
 		if (clicked == "C") {
 			$("#calculationHeader").empty();
 		} else if (clicked == "=") {
+			console.log(calculationToExecute);
 			console.log(typeof(calculationToExecute));
 			// $("#calculationHeader").html
 		} else {
